@@ -2,6 +2,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=onnkeat&show_icons=true&include_all_commits=true&hide_border=true" />
 <a href="https://stackoverflow.com/users/3785719/chong-onn-keat" target="_blank"><img align="center" src="https://stackoverflow.com/users/flair/3785719.png" /></a>
+
+<a href="[https://stackoverflow.com/users/3785719/chong-onn-keat](https://github.com/search?q=author%3Aonnkeat&type=issues&s=created&o=desc)" target="_blank">Github activity</a>
+
 <!--
 **onnkeat/onnkeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
