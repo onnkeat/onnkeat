@@ -6,7 +6,7 @@
   <span>Github activity dashboard: </span><a href="https://github.com/search?q=author%3Aonnkeat&type=issues&s=created&o=desc" target="_blank"><span>issues, pull requests, commits</span></a>
   <br />
   <br />
-  <a href="https://github-readme-stats.vercel.app/api?username=onnkeat&show_icons=true&include_all_commits=true&hide_border=true" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onnkeat&show_icons=true&include_all_commits=true&hide_border=true" /></a>
+  <a href="https://github.com/search?q=author%3Aonnkeat&type=issues&s=created&o=desc" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onnkeat&show_icons=true&include_all_commits=true&hide_border=true" /></a>
 </div>
 
 <!-- Stack Overflow -->
